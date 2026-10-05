@@ -1,0 +1,6 @@
+{
+  "name": "Velvet & Whisk Artisan Cake Studio",
+  "description": "Bespoke handcrafted cakes, seasonal celebration confections, and interactive custom cake atelier.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
